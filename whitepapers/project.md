@@ -1,4 +1,4 @@
-Local Git: A Deterministic, Provenance‑Aware Version‑Control System for Scientific Research Workflows
+# Local Git: A Deterministic, Provenance‑Aware Version‑Control System for Scientific Research Workflows
 
 Abstract
 Local Git is a minimal, provenance‑focused version‑control system designed for scientific and computational research environments where reproducibility, metadata integrity, and deterministic commit structures are more important than distributed collaboration. Implemented as a hybrid Python/Rust system, Local Git provides a stripped‑down CLI, structured metadata schemas, and a memory‑safe commit‑graph engine. This whitepaper presents the system architecture, design principles, metadata model, provenance mechanisms, and workflow semantics that define Local Git as a research‑first alternative to traditional distributed VCS tools.
