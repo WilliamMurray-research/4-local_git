@@ -1,9 +1,3 @@
-Here is a clean, publication‑ready **Project README** for **4.0 – Local Git (Python, Rust)**, written in the same style as your other modules and structured for clarity, research reproducibility, and long‑term maintainability.
-
-Guided Links are embedded naturally so readers can jump deeper into concepts if they want.
-
----
-
 # 4.0 — Local Git  
 A minimal, research‑focused, version‑controlled CLI built in **Python** and **Rust**, designed for structured scientific workflows, provenance tracking, and metadata‑rich commit histories.
 
@@ -136,11 +130,3 @@ Schemas are validated at commit time.
 
 ---
 
-If you want, I can also generate:
-
-- a **CLI command reference**,  
-- a **metadata schema specification**,  
-- a **Rust storage engine outline**, or  
-- a **Python workflow example**.
-
-Just tell me which direction you want to take next.
