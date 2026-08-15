@@ -24,10 +24,6 @@ Systems Architect
 
 ---
 
-A minimal, research‑focused, version‑controlled CLI built in Python and Rust, designed for structured scientific workflows, provenance tracking, and metadata‑rich commit histories.
-
----
-
 ## Overview
 
 **Local Git** is a stripped‑down, self‑contained version‑control system intended for research environments where:
