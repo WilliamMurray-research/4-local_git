@@ -1,5 +1,5 @@
-# 4.0 — Local Git  
-A minimal, research‑focused, version‑controlled CLI built in **Python** and **Rust**, designed for structured scientific workflows, provenance tracking, and metadata‑rich commit histories.
+# Local Git  
+A minimal, research‑focused, version‑controlled CLI built in Python and Rust, designed for structured scientific workflows, provenance tracking, and metadata‑rich commit histories.
 
 ---
 
