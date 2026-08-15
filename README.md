@@ -1,4 +1,29 @@
+`2026-1005-D-read-001.md`  
+
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-1005-D-read-001`  
 # Local Git  
+### Project    
+
+**Type**: read   
+**Classification**: D  
+**Version**: 0.1     
+
+William Murray  
+Systems Architect  
+15 August 2026  
+
+**Status**: Draft     
+
+**Scope**: A minimal, research‑focused, version‑controlled CLI built in Python and Rust, designed for structured scientific workflows, deterministic provenance tracking, and metadata‑rich commit histories. Provides a stripped‑down, local‑only alternative to Git for environments where reproducibility, semantic metadata, and tightly governed commit graphs matter more than distributed collaboration. Serves as a foundation for experiment tracking, dataset evolution, and computational‑artifact lineage within controlled research pipelines.  
+
+**Primary Model / Scheme**: Provenance‑Aware Commit Schema v0.1 — defines structured commit metadata, experiment descriptors, dataset lineage fields, semantic tags, and deterministic parent/child relationships. Establishes the rules for provenance encoding, commit‑graph invariants, and hybrid Python/Rust workflow integration within a local, research‑centric version‑control environment.  
+
+---
+
 A minimal, research‑focused, version‑controlled CLI built in Python and Rust, designed for structured scientific workflows, provenance tracking, and metadata‑rich commit histories.
 
 ---
