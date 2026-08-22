@@ -6,9 +6,8 @@
 
 **Document Reference**: `2026-2005-D-read-000`  
 # Local Git  
-### Project    
+### Applied R&D      
 
-**Type**: read   
 **Classification**: D  
 **Version**: 0.1     
 
